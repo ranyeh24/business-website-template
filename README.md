@@ -1,6 +1,6 @@
 # Inazuma - HTML Template for Corporate and Business
 
-Inazuma is an open-source HTML template created by [Ranyeh](https://www.github.com/ranyeh24). This template is a clone of templates I found on the internet with slight adjustments to the design. It's just personal project for personal portfolio. 
+Inazuma is an open-source HTML template created by [Ranyeh](https://www.github.com/ranyeh24). This template is a clone of this [template](https://demo.ayroui.com/templates/business-template/) I found on the internet with slight adjustments to the design. It's just personal project for personal portfolio. 
 
 To begin using this template, just extract the zipped files in any folder you want and run it.
 
