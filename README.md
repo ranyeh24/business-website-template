@@ -12,7 +12,7 @@ To begin using this template, just extract the zipped files in any folder you wa
 * Compatible with all mobile devices and with a beautiful and pleasant user interface.
 * SEO-Friendly
 
-## Previews
+## Preview
 
 You can see the live preview [here](https://ranyeh24.github.io/inazuma/).
 
