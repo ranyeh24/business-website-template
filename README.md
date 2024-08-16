@@ -1,7 +1,6 @@
 # Inazuma - HTML Template for Corporate and Business
 
-Inazuma is an open-source HTML template created by [Ranyeh](https://www.github.com/ranyeh24). It's just personal project fo
-r personal portfolio. 
+Inazuma is an open-source HTML template created by [Ranyeh](https://www.github.com/ranyeh24). This template is a clone of templates I found on the internet with slight adjustments to the design. It's just personal project for personal portfolio. 
 
 To begin using this template, just extract the zipped files in any folder you want and run it.
 
@@ -33,6 +32,8 @@ Here are the steps to set up animations when scrolling:
 * After that, save the code and run it in your browser
 
 By default, the JavaScript file that is executed is `main.min.js`. This file is a minified version of `main.js`. You can only use one of the files you want to run on your website. If you want to use the minified version, make sure the code changes have also been implemented in the minified version.
+
+You can follow these steps to add animations on scrolling or set it up yourself with another plugins.
 
 ## Bugs and Issues
 
