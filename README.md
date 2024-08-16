@@ -14,6 +14,8 @@ To begin using this template, just extract the zipped files in any folder you wa
 
 ## Preview
 
+![Preview Image](./preview.png)
+
 You can see the live preview [here](https://ranyeh24.github.io/inazuma/).
 
 ## Notes
