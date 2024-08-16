@@ -434,6 +434,9 @@ p + p{
 .section-area{
   padding: var(--section-padding);
 }
+.section-area:nth-child(even){
+  background-color: rgba(0, 0, 0, 0.05);
+}
 .section-title{
   text-align: center;
   max-width: 550px;
