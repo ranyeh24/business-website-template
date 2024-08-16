@@ -14,15 +14,8 @@ To begin using this template, just extract the zipped files in any folder you wa
 
 ## Previews
 
-Here are some previews for Light Mode and Dark Mode.
+You can see the live preview [here](https://ranyeh24.github.io/inazuma/).
 
-### Light Mode
-
-![Light Mode Preview](./assets/img/inazuma-business-light.png)
-
-### Dark Mode
-
-![Dark Mode Preview](./assets/img/inazuma-business-dark.png)
 ## Notes
 
 Here are the steps to set up animations when scrolling:
