@@ -10,6 +10,7 @@ To begin using this template, just extract the zipped files in any folder you wa
 * Includes a dark & light theme.
 * Developed first with the desktop size, then for mobile.
 * Compatible with all mobile devices and with a beautiful and pleasant user interface.
+* SEO-Friendly
 
 ## Previews
 
