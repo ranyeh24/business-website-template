@@ -31,7 +31,7 @@ You can follow these steps to add animations on scrolling or set it up yourself 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? Email me at real.ranyeh24@gmail.com.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/ranyeh24/inazuma/issues) here on GitHub or email me at <real.ranyeh24@gmail.com>.
 
 ## License
 
