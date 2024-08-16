@@ -13,7 +13,7 @@ To begin using this template, just extract the zipped files in any folder you wa
 
 ## Previews
 
-Here are previews for Light Mode and Dark Mode.
+Here are some previews for Light Mode and Dark Mode.
 
 ### Light Mode
 
