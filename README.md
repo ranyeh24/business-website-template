@@ -1,4 +1,3 @@
-
 # Inazuma | Corporate & Business Website Template
 
 This is an open source corporate and business website template created by [Ranyeh](https://www.github.com/ranyeh24).
