@@ -17,16 +17,16 @@ Here are previews for Light Mode and Dark Mode.
 
 ### Light Mode
 
-![Light Mode Preview](./assets/img/Inazuma-Business-Light.png)
+![Light Mode Preview](./assets/img/inazuma-business-light.png)
 
 ### Dark Mode
 
-![Dark Mode Preview](./assets/img/Inazuma-Business-Dark.png)
+![Dark Mode Preview](./assets/img/inazuma-business-dark.png)
 ## Notes
 
 Here are the steps to set up animations when scrolling:
 
-* Open `main.js` file in assets/js folder
+* Open `main.js` file in `assets/js` folder
 * Look for the line of code that controls animations when scrolling in code line number 138 to 147
 * Delete the `//` sign in each line of code to be able to run the code
 * After that, save the code and run it in your browser
