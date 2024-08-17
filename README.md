@@ -53,7 +53,7 @@ This project is a static website. You can use it as a template or reference for 
 ## Customization
 
 * To change colors, modify the color variables in CSS file.
-* To set animations when scrolling (unset by default), see the [Set Animations When Scrolling](https://github.com/ranyeh24/inazuma/tree/main#set-animations-when-scrolling) section.
+* To set animations when scrolling (unset by default), see the [Set Animations When Scrolling](#set-animations-when-scrolling) section.
 * To change fonts, update the Google Fonts link and modify the `--font-family` variable in the CSS file.
 
 ## Responsive Design
