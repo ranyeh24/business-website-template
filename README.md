@@ -1,40 +1,56 @@
 # Inazuma - HTML Template for Corporate and Business
 
-Inazuma is an open-source HTML template created by [Ranyeh](https://www.github.com/ranyeh24). This template is a clone of [Business | Bootstrap 5 Business Template](https://demo.ayroui.com/templates/business-template/) I found on the internet, but without the framework and slight adjustments to the design. It's just personal project for personal portfolio. 
+A responsive landing page for a business company. Built to practice my HTML, CSS and JavaScript skills.
 
-To begin using this template, just extract the zipped files in any folder you want and run it.
+##Description
 
-* This template designed using HTML, CSS, and JavaScript.
-* Can contains animation when scrolling (none by default).
-* Smooth scrolling in each section.
-* Includes a dark & light theme.
-* Developed first with the desktop size, then for mobile.
-* Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Inazuma is an open-source HTML template created for corporate and business company. This template is a clone of [Business | Bootstrap 5 Business Template](https://demo.ayroui.com/templates/business-template/) I found on the internet, but without any framework and slight adjustments to the design. It's just personal project for personal portfolio. 
+
+##Features
+
+* Responsive navbar with CTA and switch theme buttons
+* Hero section with CTA and intro video buttons
+* Smooth scrolling in each section
+* Includes a dark & light theme
+* Video section showcasing intro video
+* Responsive footer
 * SEO-Friendly
+
+##Technologies Used
+
+* HTML
+* CSS
+* JavaScript
 
 ## Preview
 
 ![Preview Image](./preview.png)
 
-You can see the live preview [here](https://ranyeh24.github.io/inazuma/).
+## Live Demo
 
-## Notes
+You can see the live demo [here](https://ranyeh24.github.io/inazuma/).
 
-Here are the steps to set up animations when scrolling:
+## Installation
 
-* Open `main.js` file in `assets/js` folder
-* Look for the line of code that controls animations when scrolling in code line number 138 to 147
-* Delete the `//` characters in each line of code to be able to run the code
-* After that, save the code and run it in your browser
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/inazuma.git
+```
+2. Or you can download the zip then extract it to your project folder.
+3. Open `index.html` in your web browser.
 
-By default, the JavaScript file that is executed is `main.min.js`. This file is a minified version of `main.js`. You can only use one of the files you want to run on your website. If you want to use the minified version, make sure the code changes have also been implemented in the minified version.
+## Usage
 
-You can follow these steps to add animations on scrolling or set it up yourself with another plugins.
+This project is a static website. You can use it as a template or reference for building similar landing pages or to practice your HTML, CSS and JavaScript skills.
 
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/ranyeh24/inazuma/issues) here on GitHub or email me at <real.ranyeh24@gmail.com>.
 
+## Credits
+* Template design from [Business | Bootstrap 5 Business Template](https://demo.ayroui.com/templates/business-template/)
+* Images from [Unsplash](https://unsplash.com/)
+
 ## License
 
-Inazuma is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+Inazuma is an open-source and available under the [MIT License](https://raw.githubusercontent.com/ranyeh24/inazuma/main/LICENSE). You can use it with your personal or commercial projects without any attribution or backlink.
