@@ -66,7 +66,7 @@ The template is responsive and adapts to different screen sizes:
 
 ## Learning Outcomes
 
-This project hel practice:
+This project help practice:
 
 * HTML structure and semantic tags
 * CSS layout techniques (flexbox and grid)
