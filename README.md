@@ -2,11 +2,11 @@
 
 A responsive landing page for a business company. Built to practice my HTML, CSS and JavaScript skills.
 
-##Description
+## Description
 
 Inazuma is an open-source HTML template created for corporate and business company. This template is a clone of [Business | Bootstrap 5 Business Template](https://demo.ayroui.com/templates/business-template/) I found on the internet, but without any framework and slight adjustments to the design. It's just personal project for personal portfolio. 
 
-##Features
+## Features
 
 * Responsive navbar with CTA and switch theme buttons
 * Hero section with CTA and intro video buttons
@@ -16,7 +16,7 @@ Inazuma is an open-source HTML template created for corporate and business compa
 * Responsive footer
 * SEO-Friendly
 
-##Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
