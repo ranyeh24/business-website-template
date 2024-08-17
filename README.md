@@ -15,12 +15,19 @@ Inazuma is an open-source HTML template created for corporate and business compa
 * Video section showcasing intro video
 * Responsive footer
 * SEO-Friendly
+* Compatible to all browsers
 
 ## Technologies Used
 
 * HTML
 * CSS
 * JavaScript
+
+## Plugins Used
+
+* [ScrollReveal](https://scrollrevealjs.org/)
+* [GLightbox](https://biati-digital.github.io/glightbox/)
+* [Lineicons](https://lineicons.com/)
 
 ## Preview
 
@@ -42,6 +49,40 @@ git clone https://github.com/yourusername/inazuma.git
 ## Usage
 
 This project is a static website. You can use it as a template or reference for building similar landing pages or to practice your HTML, CSS and JavaScript skills.
+
+## Customization
+
+* To change colors, modify the color variables in CSS file.
+* To set animations when scrolling (unset by default), see the [Set Animations When Scrolling](https://github.com/ranyeh24/inazuma/tree/main#set-animations-when-scrolling) section.
+* To change fonts, update the Google Fonts link and modify the `--font-family` variable in the CSS file.
+
+## Responsive Design
+
+The template is responsive and adapts to different screen sizes:
+
+* Desktop view (> 992px)
+* Tablet view (576 - 992px)
+* Mobile view (< 576px)
+
+## Learning Outcomes
+
+This project hel practice:
+
+* HTML structure and semantic tags
+* CSS layout techniques (flexbox and grid)
+* Responsive design principles
+* Creating cohesive color scheme and typography
+
+## Set Animations When Scrolling
+
+Here are the steps to set animations when scrolling:
+
+* Open `main.js` file inside `assets/js` folder.
+* Look for the line of code that controls animations when scrolling in code line number 138 to 147.
+* Delete the `//` signs in each line of code to uncomment the code so that the code can be run.
+* Then, save the code and run it in your web browser.
+
+You can follow these steps to set animations when scrolling, or you can set it up with another animation plugins. It's up to you!
 
 ## Bugs and Issues
 
